@@ -2,6 +2,8 @@
 
 ## vNext
 
+- Fix JSON deserialization to accept both string and integer for 64-bit fields, per OTLP spec.
+
 ## 0.32.0
 
 Released 2026-May-08
